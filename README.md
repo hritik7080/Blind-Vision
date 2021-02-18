@@ -20,9 +20,13 @@ also given in the **requirements.txt** file.
 <pre>python manage.py runserver</pre>
 This command will run your localhost server will give you a link as -
 <pre>http://127.0.0.1:8000</pre>
-This means your application is hosted on port number **8000**
+This means your application is hosted on port number **8000**<br>
+Leave you terminal open and let's go further
 <br><br>
 To use this API in you mobile application you have to host it somewhere, so that you can call the API from other devices.<br>
-To turn my localhost server to live, I cuse **<a href="https://ngrok.com/download">ngrok</a>**
-
+To turn my localhost server to live, I use **<a href="https://ngrok.com/download">ngrok</a>**<br>
+Download it from the above link and open. A command prompt/terminal will appear. Now execute the below command there.
+<pre>ngrok http 8000</pre>
+This will create a link for your live application.<br>
+Leave the command prompt/terminal open<br>
 
