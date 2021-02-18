@@ -5,10 +5,15 @@ Developed an android application. Created a deep learning YOLOv3 object detectio
 
 ### REQUIREMENTS:
 <pre>
-
 django==3.1.4<br>
 opencv-contrib-python==4.4.0.46<br>
 numpy==1.18.5<br>
 django-rest-framework<br>
 </pre>
+
+also given in the <pre>requirements.txt</pre> file.
+
+### 1. Intall the python libraries
+<pre>pip install -r requirements.txt</pre>
+
 
