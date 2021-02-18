@@ -11,7 +11,7 @@ numpy==1.18.5<br>
 django-rest-framework<br>
 </pre>
 
-also given in the <pre>requirements.txt</pre> file.
+also given in the <span>requirements.txt</span> file.
 
 ### 1. Intall the python libraries
 <pre>pip install -r requirements.txt</pre>
