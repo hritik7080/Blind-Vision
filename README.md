@@ -4,7 +4,7 @@ Created an application for visually impaired people to recognize the Indian curr
 Developed an android application. Created a deep learning YOLOv3 object detection model to detect currency notes and served it with a REST API created with django.
 
 ### Demo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XG8H_vWcp28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+See the demo video here: <a href="https://www.youtube.com/embed/XG8H_vWcp28">here</a>
 
 ### REQUIREMENTS:
 <pre>
