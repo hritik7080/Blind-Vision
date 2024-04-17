@@ -2,3 +2,4 @@ django==3.1.4
 opencv-contrib-python==4.4.0.46
 numpy==1.18.5
 django-rest-framework
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
